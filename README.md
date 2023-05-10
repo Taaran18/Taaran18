@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an Machine Learning Project as well as Android Development Project.<br>I'm looking to collaborate with people who are interested in Full Stack Development.<br>I'm looking for help with<br>I'm currently learning Data Science, Java, ReactJS and Deep Learning.<br>Ask me about<br>Fun Fact 
+I'm currently working on an Machine Learning Projectand Data Projects.<br>I'm looking to collaborate with people who are interested in Data Science and Android Development.<br>I'm looking for help with Machine Learning M<odels and Tensorflow.<br>I'm currently learning Data Science, Java, ReactJS and Deep Learning.<br>Ask me about Communities, Programming and Technology<br>Fun Fact I am a Techie, Codie, and Developer.
 
 
 ## 🌐 Socials:
