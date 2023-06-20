@@ -9,7 +9,13 @@
 
 - 🌱 I’m currently learning **Business Intelligence and Financial Analysis.**
 
+- 💬 Ask me about **Python, R, MATLAB, Java, CyberSecurity**
+
 - 📫 How to reach me **taaranjain16@gmail.com**
+
+- 📄 Know about my experiences [https://flowcv.com/resume/uctpj6uh0v](https://flowcv.com/resume/uctpj6uh0v)
+
+- ⚡ Fun fact **I think I am very passionated.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
